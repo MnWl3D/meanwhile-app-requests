@@ -1,6 +1,6 @@
 Privacy Policy for Meanwhile
 Effective Date: 11.01.2025
-Last Updated: 11.01.2025
+Last Updated: 12.01.2025
 
 Thank you for using Meanwhile! Your privacy is important to us. This privacy policy explains how we collect, use, and protect your information.
 
