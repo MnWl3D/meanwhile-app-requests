@@ -21,4 +21,4 @@ Sharing explicit content, including but not limited to nudity, sexual materials,
 6. Cooperation with Authorities
 Meanwhile complies with applicable laws regarding the reporting of child sexual abuse materials (CSAM).
 We cooperate with law enforcement and relevant authorities in any investigation involving such materials or activities.
-If you have any concerns or wish to report inappropriate behavior, please contact our support team at spprt.at.meanwhile.com.
+If you have any concerns or wish to report inappropriate behavior, please contact our support team at spprt.at.meanwhile@gmail.com.
