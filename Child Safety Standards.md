@@ -1,4 +1,5 @@
 Child Safety Standards for Meanwhile App
+
 At Meanwhile, we prioritize user safety and well-being. While our app is designed exclusively for users aged 18 and older, we have implemented mechanisms to encourage compliance and provide tools for reporting and addressing inappropriate behavior.
 
 1. Age Restrictions
