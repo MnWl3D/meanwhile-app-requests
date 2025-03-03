@@ -1,50 +1,55 @@
 Privacy Policy for Meanwhile
 Effective Date: 11.01.2025
-Last Updated: 12.01.2025
+Last Updated: 03.03.2025
 
 Thank you for using Meanwhile! Your privacy is important to us. This privacy policy explains how we collect, use, and protect your information.
 
 1. Information We Collect
-We collect the following information when you use the app:
+When you use Meanwhile, we may collect the following data:
 
-Spotify Account Information: Your Spotify user ID, username, profile picture, liked songs, and favorite artists.
-Chat and Parties Data: Messages sent and received, details of parties created, and participation data.
+Spotify Account Information: Your Spotify user ID, username, profile picture, liked songs, and favorite artists, as provided by the Spotify API.
+Chat and Parties Data: Messages sent and received, details of parties created and participation history.
 Uploaded Photos: Photos you upload to your profile.
-Device Information: Technical details such as device type, operating system, and app version (used for troubleshooting and improving app functionality).
+Device Information: Technical details such as device type, operating system, and app version (used only for app functionality & debugging).
 2. How We Use Your Information
-We use your data to:
+We use your data strictly for app functionality:
+✅ To create and manage your profile.
+✅ To match you with other users based on your music preferences.
+✅ To enable features like chat, party hosting, and participation.
+✅ To improve app performance and security.
 
-Create and manage your profile within the app.
-Match you with other users based on your music preferences.
-Enable features such as chat, party hosting, and participation.
-Enhance app functionality, fix technical issues, and provide customer support.
-We do not sell or share your data with third parties except as required to provide app functionality (e.g., Spotify integration).
+🚫 We do not sell or share your data with third parties except for essential services (e.g., Spotify authentication).
 
-3. Data Storage and Security
-Your data is securely stored on our servers and is protected using encryption.
-Photos are securely stored in AWS S3 storage buckets.
-We follow industry-standard practices to safeguard your data, including encryption for data in transit and at rest.
+3. Data Storage & Security
+We prioritize your privacy by implementing strong security measures:
+
+Your data is stored securely on our servers and is encrypted during transmission and storage.
+Photos are stored securely in AWS S3 storage.
 Access to your data is restricted to authorized personnel only.
-4. Third-Party Services
-We use third-party services to enhance your experience. These services include:
+4. Third-Party Services & Data Sharing
+Meanwhile uses third-party services to enhance functionality:
 
-Spotify API: Used to retrieve your music preferences for matching and profile features.
-AWS S3: Used for securely storing uploaded profile photos.
-These services have their own privacy policies. We encourage you to review them for more details.
+Spotify API: To access your music data and match users.
+AWS S3: To securely store uploaded photos.
+📢 We only use Spotify data as permitted by Spotify’s Developer Terms.
+📢 We do not share your Spotify data with third parties beyond core app functionality.
 
-5. Your Rights
-You have the following rights regarding your data:
+5. Your Rights & Data Control
+You have full control over your data:
 
-Access: You can request a copy of the data we store about you.
-Correction: You can update or correct your profile information within the app.
-Deletion: You can request the deletion of your account and all associated data.
-To exercise these rights, please contact us at spprt.at.meanwhile@gmail.com.
+Access: You can request a copy of your data.
+Correction: You can update your profile information.
+Deletion: You can delete your account, and your data will be erased.
+Revoke Spotify Access: You can remove our app’s access to your Spotify account via Spotify Account Settings.
+📌 Data deletion requests will be processed within 7 days.
 
-6. User-Generated Content and Moderation
-While we do not currently moderate all user-generated content, we provide in-app tools for reporting and blocking inappropriate behavior or content.
-Reported content will be reviewed, and appropriate actions will be taken to maintain a safe environment.
+6. User-Generated Content & Moderation
+To maintain a safe environment:
+
+We allow users to report inappropriate content.
+Reported content will be reviewed, and necessary actions will be taken.
 7. Contact Us
-If you have any questions or concerns about this privacy policy or your data, please reach out to us:
+If you have any questions or requests regarding your privacy, please contact us:
+📧 Email: spprt.at.meanwhile@gmail.com
+📍 Address: Ustanička 132, Belgrade, Serbia
 
-Email: spprt.at.meanwhile@gmail.com
-Address: Ustanička 132, Belgrade, Serbia
